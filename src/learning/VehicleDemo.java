@@ -1,3 +1,5 @@
+package learning;
+
 class Vehicle {
     int a;
     int b;
